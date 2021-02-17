@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.guanshi</groupId>
-    <artifactId>season2</artifactId>
+    <artifactId>season3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>season2</name>
+    <name>season3</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
@@ -27,15 +27,6 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <!--<version>1.16.20</version>-->
-            <version>1.18.18</version>
-        </dependency>
-
     </dependencies>
 
     <build>
